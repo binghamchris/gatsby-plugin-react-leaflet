@@ -1,3 +1,7 @@
+# Package origins
+
+This repository was forked from [dweirich/gatsby-plugin-react-leaflet](https://github.com/dweirich/gatsby-plugin-react-leaflet).
+
 # Getting started
 
 This package takes care of setting up your project for [React Leaflet](https://react-leaflet.js.org/).

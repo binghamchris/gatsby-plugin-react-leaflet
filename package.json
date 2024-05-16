@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-plugin-react-leaflet",
+  "name": "@binghamchris/gatsby-plugin-react-leaflet",
   "version": "4.0.3",
   "description": "React Leaflet for Gatsby",
   "main": "index.js",
@@ -16,12 +16,12 @@
   "license": "MIT",
   "peerDependencies": {
     "gatsby": "^5.0.0",
-    "leaflet": "1.9.3",
+    "leaflet": "^1.9.4",
     "react-leaflet": "^4.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dweirich/gatsby-plugin-react-leaflet"
+    "url": "https://github.com/binghamchris/gatsby-plugin-react-leaflet"
   },
   "devDependencies": {
     "@babel/cli": "^7.0.0",
